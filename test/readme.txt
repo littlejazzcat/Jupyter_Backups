@@ -1,1 +1,1 @@
-This folder is just for learning and test code of Deeplearning.
+This folder is just for learning and testing code of Deeplearning.
